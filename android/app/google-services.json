@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904821011781",
+    "project_id": "emailsignin-ef73f",
+    "storage_bucket": "emailsignin-ef73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904821011781:android:a82a1d798e89224c613a2c",
+        "android_client_info": {
+          "package_name": "com.example.test060"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904821011781-6tqctn2ho0jjekf9qhqhlttk1qr469ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48WiZDloe6lYIwAjQFpCKVIGqFwmn3lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904821011781-6tqctn2ho0jjekf9qhqhlttk1qr469ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
